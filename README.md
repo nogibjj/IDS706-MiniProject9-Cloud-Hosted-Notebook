@@ -9,15 +9,11 @@
 Set up a cloud-hosted notebook and demonstrate data manipulation with a sample dataset.
 
 ## Source Code
-[Google Colab](https://colab.research.google.com/drive/17dGiFBh1kSRhWPNL10GFQQugopVZjUae?usp=sharing)
+[Google Colab]()
 
 ## Preparation
 
-Go to Google Colab link and see the anaysis
-
-## Run and Result
-
-Thw overall result anayzes the factors which might affect a movie to be Top100 in the Maoyan.com which is a Chinese movie rating website.
+Go to Google Colab link and see the analysis
 
 ## Reference
 
