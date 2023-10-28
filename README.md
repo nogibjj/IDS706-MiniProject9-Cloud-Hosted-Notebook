@@ -11,6 +11,18 @@ Set up a cloud-hosted notebook and demonstrate data manipulation with a sample d
 ## Source Code
 [Google Colab](https://colab.research.google.com/drive/1v8tOOv9w15mzERYTf5O0xD42Y-Q3rSgs?usp=sharing)
 
+[Google Colab](https://colab.research.google.com/drive/1v8tOOv9w15mzERYTf5O0xD42Y-Q3rSgs?usp=sharing)
+
+[Google Colab](https://colab.research.google.com/drive/1v8tOOv9w15mzERYTf5O0xD42Y-Q3rSgs?usp=sharing)
+
+## Link to Github here
+[Github](https://github.com/EricYsh/colab)
+
+[Github](https://github.com/EricYsh/colab)
+
+[Github](https://github.com/EricYsh/colab)
+
+
 ## Preparation
 
 Go to Google Colab link and see the analysis
